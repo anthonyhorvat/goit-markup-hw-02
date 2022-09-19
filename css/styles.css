@@ -5,6 +5,7 @@
   --second-page-color: #2196f3;
   --dark-background-color: #2f303a;
   --second-background-color: #f5f4fa;
+  --button-background-color: #188ce8;
 }
 
 body {
@@ -98,7 +99,7 @@ body {
   line-height: 1.88;
   letter-spacing: 0.06em;
   color: var(--main-page-color);
-  background-color: var(--second-page-color);
+  background-color: var(--button-background-color);
   cursor: pointer;
 }
 .hero-btn:hover,
